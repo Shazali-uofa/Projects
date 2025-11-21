@@ -1,0 +1,22 @@
+customer:
+
+When the person enters a "new registration" it responds with coming soon and then send straight to NEW USER PAGE
+upon successful registration the program terminates instead of displaying the customers table
+for the login option the user should be able to pass through the id and password regardless of being a registered user or not
+thank you gets displayed at wrong/unwanted time
+upon a successful login the name displayed is the uid number but it should be retireved from either the customer or salesperson table
+"Customer menu coming soon" is being displayed up successful login and right before the complete table being displayed
+A small bug wherte if the program is already running and if I press the start button in the vscode, for some reason the code continues instead of restarting
+entering the wrong product name terminates the entire program
+
+
+26th OCT:
+
+after a succesful login if I press enter or a wrong character it takes me back to the login page instead of having me to renter at the customer/salesperson page
+-- I would say please try the new updated code I didnt see the issue in mine one which i updated latest.
+
+salesperson:
+
+a bug where after successfully entering the price it jumps to the keyword searched list
+
+
