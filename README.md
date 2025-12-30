@@ -10,3 +10,6 @@ SalesPerson:
 
 
 Project 2 CMPUT 291: Created an information collection CLI for news Articles using Python and MongoDB. Kindly refer to the Report for a clear understanding.
+
+
+**Kindly go to my homepage for an additional project (app) that I have worked and contributed**
